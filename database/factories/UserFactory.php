@@ -11,7 +11,6 @@ use Illuminate\Support\Str;
 class UserFactory extends Factory
 {
     /**
-     * É um arquivo que é usado no Laravel para gerar dados falsos para testes
      * Define the model's default state.
      *
      * @return array<string, mixed>
